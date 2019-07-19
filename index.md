@@ -1,7 +1,3 @@
----
-menu:
-  Core API: core
----
-[Core API](core)
+[API Demo](demo)
 
-[demo](demo)
+[Core API](core)

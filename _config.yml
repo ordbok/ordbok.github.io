@@ -2,9 +2,9 @@ github:
   is_project_page: true
   owner_name: "ORDBOK contributers"
   owner_url: "https://github.com/ordbok"
-  repository_name: "ORDBOK Dictionary System"
+  project_tagline: "Dictionary System"
+  repository_name: "ORDBOK"
   repository_url: "https://github.com/ordbok"
-  title: "ORDBOK Dictionary System"
 plugins:
   - jekyll-feed
   - jekyll-redirect-from

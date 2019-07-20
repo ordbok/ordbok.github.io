@@ -4,6 +4,7 @@ github:
   owner_url: "https://github.com/ordbok"
   repository_name: "ORDBOK Dictionary System"
   repository_url: "https://github.com/ordbok"
+  title: "ORDBOK Dictionary System"
 plugins:
   - jekyll-feed
   - jekyll-redirect-from

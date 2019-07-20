@@ -1,8 +1,8 @@
 github:
   is_project_page: true
   owner_name: "ORDBOK contributers"
-  owner_url: "https://github.com/ordbok/"
-  repository_url: "https://github.com/ordbok/"
+  owner_url: "https://github.com/ordbok"
+  repository_url: "https://github.com/ordbok"
 plugins:
   - jekyll-feed
   - jekyll-redirect-from

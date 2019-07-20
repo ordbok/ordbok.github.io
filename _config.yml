@@ -1,6 +1,12 @@
+github:
+  is_project_page: true
+  owner_name: "ORDBOK contributers"
+  owner_url: "https://github.com/ordbok/"
+  repository_url: "https://github.com/ordbok/"
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+show_downloads: false
 theme: jekyll-theme-slate

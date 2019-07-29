@@ -1,3 +1,5 @@
-[API Demo](demo)
+[API Demo](demo/)
 
-[Core API](core)
+[Core API](core/)
+
+[Index Plugin API](index-plugin/)
